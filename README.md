@@ -17,9 +17,9 @@ The program manages student records and performs operations such as:
 - Searching students using roll numbers
 - Showing the top N students
 - Calculating the class average CGPA
-- Demonstrating Python *magic methods*
+- Demonstrating Python **magic methods**
 
-The goal of this project was to understand how **real-world systems can be modeled using *classes and objects***.
+The goal of this project was to understand how **real-world systems can be modeled using classes and objects**.
 
 -----
 
